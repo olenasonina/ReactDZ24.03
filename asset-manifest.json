@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactDZ24.03/static/css/main.f32bd8a5.chunk.css",
+    "main.js": "/ReactDZ24.03/static/js/main.93bfd306.chunk.js",
+    "main.js.map": "/ReactDZ24.03/static/js/main.93bfd306.chunk.js.map",
+    "runtime-main.js": "/ReactDZ24.03/static/js/runtime-main.e05f2f51.js",
+    "runtime-main.js.map": "/ReactDZ24.03/static/js/runtime-main.e05f2f51.js.map",
+    "static/css/2.0161871a.chunk.css": "/ReactDZ24.03/static/css/2.0161871a.chunk.css",
+    "static/js/2.a3922de1.chunk.js": "/ReactDZ24.03/static/js/2.a3922de1.chunk.js",
+    "static/js/2.a3922de1.chunk.js.map": "/ReactDZ24.03/static/js/2.a3922de1.chunk.js.map",
+    "index.html": "/ReactDZ24.03/index.html",
+    "precache-manifest.a2458f30997dd0d75435b131fcc0d847.js": "/ReactDZ24.03/precache-manifest.a2458f30997dd0d75435b131fcc0d847.js",
+    "service-worker.js": "/ReactDZ24.03/service-worker.js",
+    "static/css/2.0161871a.chunk.css.map": "/ReactDZ24.03/static/css/2.0161871a.chunk.css.map",
+    "static/css/main.f32bd8a5.chunk.css.map": "/ReactDZ24.03/static/css/main.f32bd8a5.chunk.css.map",
+    "static/js/2.a3922de1.chunk.js.LICENSE.txt": "/ReactDZ24.03/static/js/2.a3922de1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e05f2f51.js",
+    "static/css/2.0161871a.chunk.css",
+    "static/js/2.a3922de1.chunk.js",
+    "static/css/main.f32bd8a5.chunk.css",
+    "static/js/main.93bfd306.chunk.js"
+  ]
+}
